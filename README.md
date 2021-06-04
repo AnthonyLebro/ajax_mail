@@ -1,5 +1,5 @@
 # Projet : Gmail-like en AJAX
-Voici le lien Heroku `https://gmail-like-xab.herokuapp.com/`
+Voici le lien Heroku "https://gmailajax.herokuapp.com/"
 ### 1. Introduction  
 Pour ce projet, nous allons te demander de faire un Email Viewer qui n'est ni plus ni moins qu'une version ultra basique de Gmail. Globalement l'appli affichera une seule et unique page avec 2 colonnes :  
 
